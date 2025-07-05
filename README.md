@@ -45,6 +45,17 @@
 
 ---
 
+## ✏️ Pencil Art Gallery  
+> Blending creativity with logic—where sketches tell a story beyond code.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/praveen4942/Pencil-arts/main/images/sketch1.png" width="300" />
+  <br />
+  <em>Minimalist pencil sketch – elegance through lines and shadow</em>
+</p>
+
+- 🎨 Want more? Check out [Pencil Art by Praveen](https://github.com/praveen4942/Pencil-arts)
+
 ## 🏅 Highlights & Credentials  
 - 🥇 Verilog HDL & VLSI Design by Maven Silicon  
 - 🎓 Coursera: Intro to IoT, Embedded Systems, & Cybersecurity Foundations  
