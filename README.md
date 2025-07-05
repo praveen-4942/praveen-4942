@@ -41,7 +41,7 @@
 </p>
 
 - 🎨 Want more? Check out [Pencil Art by Praveen](https://github.com/praveen4942/Pencil-arts-by-praveen-)
-- 🎨 Want more? Check out [Pencil Art by Praveen](https://github.com/praveen4942/Pencil-arts-by-praveen-)
+- 🎨 Want more? Check out [Pencil Art by Praveen](https://github.com/praveen4942/Pencil-arts)
 
 ---
 
