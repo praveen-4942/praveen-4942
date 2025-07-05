@@ -1,4 +1,3 @@
-
 ---
 
 # Hi, I'm Praveen Kumar G 👋  
@@ -34,6 +33,18 @@
 
 ---
 
+## ✏️ Pencil Art Gallery  
+> A glimpse into my creative world—minimalist sketches that reflect form, balance, and expression.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/praveen4942/pencil-art-by-praveen/main/images/sketch1.png" width="300" />
+  <br />
+  <em>Grace in graphite — hand-drawn pencil artwork</em>
+</p>
+
+- 🎨 Explore the full gallery: [Pencil Art by Praveen](https://github.com/praveen4942/pencil-art-by-praveen)
+---
+
 ## 🏅 Highlights & Credentials  
 - 🥇 Verilog HDL & VLSI Design by Maven Silicon  
 - 🎓 Coursera: Intro to IoT, Embedded Systems, & Cybersecurity Foundations  
@@ -49,4 +60,3 @@
 - [Instagram](https://www.instagram.com/yourusername)
 
 ---
-
