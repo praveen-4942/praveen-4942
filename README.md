@@ -1,62 +1,54 @@
-# Hi, I'm Praveen Kumar G 👋  
-### Final-year ECE Student · AI & Deep Tech Enthusiast · Innovation Catalyst  
+# 👋 Hi, I'm Praveen Kumar G  
+### 🧠 Final-year ECE Student · AI & Deep Tech Enthusiast · Full-Stack Innovator  
 
-🔍 I'm driven by curiosity, creativity, and a desire to engineer real-world change.  
-At the intersection of **AI, Computer Vision, IoT, VLSI**, and **Cybersecurity**, I build systems that blend innovation with impact.
-
-![Profile Views](https://komarev.com/ghpvc/?username=praveen4942&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/praveen4942?label=Follow&style=social)
+Welcome! I’m an engineer by training, explorer by spirit, and problem-solver at heart.  
+I design intelligent systems that bridge technology and real-world impact—where **machine learning**, **VLSI**, and **IoT** intersect with purposeful design.
 
 ---
 
-## 🚀 What Drives Me  
-- 🤖 Creating ML-powered systems for **Heart Disease Detection** and **Cyber Threat Prediction**  
-- 🌱 Developing agri-tech innovation using **Raspberry Pi** in `AgriSenseAI`  
-- 🔐 Strengthening digital safety through DL-based **malware analysis** & **DDoS mitigation**  
-- 🧠 Exploring AI-assisted **medical diagnostics** & anomaly detection  
-- 💡 Diving deep into **VLSI, embedded platforms, and digital logic design**  
-- 📊 Transforming raw data into insights via **Power BI** and Excel storytelling  
+## 🚀 What Drives Me
+- 🤖 Building ML-powered applications like **Heart Disease Detection** and **Cyber Threat Prediction**  
+- 🌱 Transforming agriculture with **AI + Raspberry Pi** in `AgriSenseAI`  
+- 🔐 Applying deep learning for **malware analysis** and **DDoS mitigation**  
+- 🧠 Exploring diagnostic intelligence through **AI-assisted medical imaging**  
+- 💡 Prototyping with **embedded systems**, **VLSI**, and **digital logic design**  
+- 📊 Telling compelling stories through **Power BI** and data dashboards
 
 ---
 
-## 💼 My Tech Playground  
-**Languages:** Python · C/C++ · HTML · Verilog  
-**Frameworks:** TensorFlow · OpenCV · Flask  
-**Tools:** Git & GitHub · Arduino · Raspberry Pi · Power BI  
-**Domains:** Machine Learning · Computer Vision · IoT · Cybersecurity · VLSI  
+## 💼 Tech Toolbox  
+| Languages | Frameworks | Tools & Platforms | Domains |
+|----------|------------|-------------------|---------|
+| Python · C/C++ · HTML · Verilog | TensorFlow · OpenCV · Flask | Git · GitHub · Arduino · Raspberry Pi · Power BI | ML · Computer Vision · IoT · Cybersecurity · VLSI |
 
 ---
 
 ## 🔥 Featured Projects  
-- 🛡️ `Cyber-Threat-Prediction` — Detecting malware & DDoS using DL classifiers  
-- 🌿 `AgriSenseAI` — Smart farming alert system built with AI + IoT  
-- 🧹 `DesiltBot` — Autonomous bot for waterbody cleanup in real time  
-- 📮 `Spam-Sniffer` — High-accuracy, lightweight email spam filter  
+| 🚀 Project | ⚙️ Description |
+|-----------|---------------|
+| 🛡️ **Cyber-Threat-Prediction** | DL-powered malware + DDoS detector using real-world datasets |
+| 🌿 **AgriSenseAI** | Smart farm monitoring via AI-based insights on Raspberry Pi |
+| 🧹 **DesiltBot** | Autonomous robot to clean debris and silt from water bodies |
+| 📮 **Spam-Sniffer** | Lightweight, high-accuracy email spam classifier |
 
 ---
 
-## 🏅 Highlights & Credentials  
-- 🥇 Verilog HDL & VLSI Design Certification – Maven Silicon  
-- 🎓 Coursera Certifications in **IoT**, **Embedded Systems**, and **Cybersecurity**  
-- 📰 Published in IJERT: *Smart Agricultural Monitoring System*  
+## 🏆 Credentials & Milestones  
+- 🥇 **Verilog HDL & VLSI** Design – Maven Silicon  
+- 🎓 **Coursera** Certified in IoT · Embedded Systems · Cybersecurity  
+- 📰 Research Publication: *Smart Agricultural Monitoring System*, IJERT  
 - 🏁 Hackathon Finalist · Open-source Contributor  
-- 🐍 Infosys Certified Python Programmer  
+- 🐍 Infosys Certified in Python  
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen4942&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen4942&theme=default&hide_border=true" width="48%" />
-</p>
-
----
-
-## 📫 Let’s Connect  
+## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/praveen4942)  
 - ✉️ [Email](mailto:gpraveenkumar2005@gmail.com)  
 - 📸 [Instagram](https://www.instagram.com/6926.praveen)
 
 ---
 
-> *“Engineer by logic, artist by instinct.”*
+> *"Creativity is intelligence having fun." — Albert Einstein*
+
+<!-- README by Praveen Kumar G · Profile: github.com/praveen4942 -->
