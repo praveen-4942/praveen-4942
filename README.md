@@ -37,12 +37,12 @@
 > A glimpse into my creative world—minimalist sketches that reflect form, balance, and expression.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/praveen4942/pencil-art-by-praveen/main/images/sketch1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/praveen4942/Pencil-arts-by-praveen/Picsart_25-04-07_22-53-35-200.jpg" width="300" />
   <br />
   <em>Grace in graphite — hand-drawn pencil artwork</em>
 </p>
 
-- 🎨 Explore the full gallery: [Pencil Art by Praveen](https://github.com/praveen4942/pencil-art-by-praveen)
+- 🎨 Explore the full gallery: [Pencil Art by Praveen](https://github.com/praveen4942/Pencil-arts-by-praveen)
 ---
 
 ## 🏅 Highlights & Credentials  
