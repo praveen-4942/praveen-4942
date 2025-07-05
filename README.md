@@ -35,12 +35,12 @@
 > Blending creativity with logic—where sketches tell a story beyond code.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/praveen4942/pencil-art-by-praveen/main/images/sketch1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/praveen4942/Pencil-arts-by-praveen-/main/images/Picsart_25-04-07_22-53-35-200.jpg" width="300" />
   <br />
   <em>Minimalist pencil sketch – elegance through lines and shadow</em>
 </p>
 
-- 🎨 Want more? Check out [Pencil Art by Praveen](https://github.com/praveen4942/pencil-art-by-praveen)
+- 🎨 Want more? Check out [Pencil Art by Praveen](https://github.com/praveen4942/Pencil-arts-by-praveen-)
 
 ---
 
